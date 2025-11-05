@@ -3,7 +3,7 @@ This tool is a Bayesian multivariate state-space (MARSS) model that estimates to
 
 ## File Descriptions
 ### Abundance Data
-Global database of marine vertebrate time series for pinnipeds (LINK) and sea turtles (LINK). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each species location with counts is its own row. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
+Global database of marine vertebrate time series for sea turtles ('data/All Turtles Data_latlon.csv'). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each species location with counts is its own row. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
 #### Abundance Data Column Description
 - TID: time series identification number assigned
 - Author: Source author
@@ -27,10 +27,10 @@ Global database of marine vertebrate time series for pinnipeds (LINK) and sea tu
 - yXXXX: Year XXXX, Years of abundance counts 
 
 ### Distance Data for Spatial Synchrony
-Distances among locations for example taxa are found at DISTANCE_LINK. Distance are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
+Distances among locations for example taxa are found at 'data/site_distance/turtle_distance_matrix_2025_0925.RDS'. Distances are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
 
 ### Model Files
-Data pre-pocessing and model fitting code found at MODEL_LINK. Model is in Stan and found in the Stan folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
+Data pre-pocessing and model fitting code found at 'R/turtle model fitting and selection.R'. Model is in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
 
 
 ## Model Description (Bayesian MARSS)

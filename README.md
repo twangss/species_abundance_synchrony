@@ -3,7 +3,8 @@ This tool is a Bayesian multivariate state-space (MARSS) model that estimates to
 
 ## File Descriptions
 ### Abundance Data
-Global database of marine vertebrate time series for sea turtles ('data/All Turtles Data_latlon.csv'). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each species location with counts is its own row. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
+Global database of marine vertebrate time series for pinnipeds  ('data/All Turtles Data_latlon.csv'). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each population is its own row while the time series data across years is in columns. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
+
 #### Abundance Data Column Description
 - TID: time series identification number assigned
 - Author: Source author
@@ -30,7 +31,7 @@ Global database of marine vertebrate time series for sea turtles ('data/All Turt
 Distances among locations for example taxa are found at 'data/site_distance/turtle_distance_matrix_2025_0925.RDS'. Distances are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
 
 ### Model Files
-Data pre-pocessing and model fitting code found at 'R/turtle model fitting and selection.R'. Model is in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
+Data pre-processing and model fitting code found at 'R/turtle model fitting and selection.R'. Model is in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
 
 
 ## Model Description (Bayesian MARSS)
@@ -51,8 +52,8 @@ We model abundances as random walks in log space. Process variance is independen
 Total species abundance is calculated as the sum of individual population abundances. In the pinniped examples, we calculate total abundance by subspecies when possible. 
 
 ### Bayesian
-Scarce ecological data, some parameters will be difficult to estimate in a likelihood framework. The priors in the Stan examples are based on pinnipeds.
+Scarce ecological data can be addressed with priors on parameters, as some parameters will be difficult to estimate in a MLE framework. The priors in the Stan examples are based on pinnipeds.
 
 ### Framework
-We designed this tool to be ran at the species level. This can be modified to other taxonomic levels. Model run times will exponentially increase with # of time series in the MARSS.
+We designed this tool to be ran at the species level with options to report summed trends for different hierarchical levels (e.g., sub-species, population-only). This can be modified to other taxonomic levels. Model run times will exponentially increase with # of time series in the MARSS.
 

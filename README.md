@@ -28,10 +28,17 @@ Global database of marine vertebrate time series for pinnipeds  ('data/All Turtl
 - yXXXX: Year XXXX, Years of abundance counts 
 
 ### Distance Data for Spatial Synchrony
-Distances among locations for example taxa are found at 'data/site_distance/turtle_distance_matrix_2025_0925.RDS'. Distances are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
+Distances among locations are found at 'data/site_distance/turtle_distance_matrix_2025_0925.RDS'. Distances are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
+
+### R files
+- pinniped_model_fitting_and_selection: fit models of pinniped abundance trends
+- main_plots: process model output files from fitting script for figure generation
+- simulation_setup_and_distance_covariance: set up simulation experiment by producing simulated random walks and also set up distance calculations for spatial synchrony
+- simulation_experiment_outputs_processing: process simulation experiment output files
+- LPI_realdatatrends: compare abundance trends among LPI, independent process, and spatial synchrony models
 
 ### Model Files
-Data pre-processing and model fitting code found at 'R/turtle model fitting and selection.R'. Model is in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
+Data pre-processing and model fitting code found at 'R/pinniped_model_fitting_and_selection.R'. Model is coded in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
 
 
 ## Model Description (Bayesian MARSS)

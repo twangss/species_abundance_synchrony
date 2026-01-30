@@ -3,7 +3,7 @@ This tool is a Bayesian multivariate state-space (MARSS) model that estimates to
 
 ## File Descriptions
 ### Abundance Data
-Global database of marine vertebrate time series for pinnipeds  ('data/All Turtles Data_latlon.csv'). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each population is its own row while the time series data across years is in columns. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
+Global database of marine vertebrate time series for pinnipeds  ('data/Pinniped database.csv'). The data is a compilation from a literature review of marine vertebrate abundance time series by location. Data is structured in a wide format, in other words, each population is its own row while the time series data across years is in columns. The first columns are metadata and characteristics of the data and the remaining columns are the abundance counts. 
 
 #### Abundance Data Column Description
 - TID: time series identification number assigned
@@ -38,15 +38,15 @@ Distances among locations are found at 'data/site_distance/turtle_distance_matri
 - LPI_realdatatrends: compare abundance trends among LPI, independent process, and spatial synchrony models
 
 ### Model Files
-Data pre-processing and model fitting code found at 'R/pinniped_model_fitting_and_selection.R'. Model is coded in Stan and found in the model folder. See Model description section below to get started. Model output processing files for reporting species abundance, overall abundance growth rates, observation error variability by sampling method and species, spatial synchrony relationship refer to model output files here.
+Models are coded in Stan and found in the model folder. See Model description section below to get started. 
+- marss_cmd_prior: independent process model
+- marss_gp_cmd_prior: spatial synchrony model
 
 
 ## Model Description (Bayesian MARSS)
 ### Setting up the model
 Download CmdStanR and follow the help guide:
 https://mc-stan.org/cmdstanr/articles/cmdstanr.html
-
-Stan files are located in the stan folder. Model without spatial syncrhony: marss_gomp_cmd.stan. Model with spatial syncrhony: marss_gomp_cmd.stan
 
 ### Multivariate State-space
 SSMs differentiate process and observation error, which allows estimation of unobserved states while simultaneously accounting for sampling uncertainty. In the context of population dynamics, process error refers to true changes in abundance due to birth, deaths, immigration, emigrations, while observation error refers to randomness in surveys sampling abundance. This separation of process and observation error may reduce spurious interpretations of extinction risk, which should be based only on process variability

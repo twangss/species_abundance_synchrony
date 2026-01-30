@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"WestIsland"	61	2005	56
+"WestIsland"	61	2008	39
+"WestIsland"	61	2015	21
+"WestIsland"	61	2020	36

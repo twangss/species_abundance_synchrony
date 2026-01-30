@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"IslaNatividad"	815	1990	1627
+"IslaNatividad"	815	1992	715
+"IslaNatividad"	815	1993	786
+"IslaNatividad"	815	1995	951
+"IslaNatividad"	815	1999	1152
+"IslaNatividad"	815	2000	1870

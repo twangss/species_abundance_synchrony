@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Rabida"	137	2014	324
+"Rabida"	137	2015	169
+"Rabida"	137	2016	376
+"Rabida"	137	2017	167
+"Rabida"	137	2018	636

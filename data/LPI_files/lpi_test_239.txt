@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"MoleneBrittanyFrance"	239	1991	26
+"MoleneBrittanyFrance"	239	1992	31
+"MoleneBrittanyFrance"	239	1993	32
+"MoleneBrittanyFrance"	239	1998	41
+"MoleneBrittanyFrance"	239	1999	43
+"MoleneBrittanyFrance"	239	2000	51

@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"LilliputIsland"	46	2006	67
+"LilliputIsland"	46	2008	55
+"LilliputIsland"	46	2010	48
+"LilliputIsland"	46	2013	71
+"LilliputIsland"	46	2015	61
+"LilliputIsland"	46	2019	62

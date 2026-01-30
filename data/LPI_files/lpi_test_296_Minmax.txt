@@ -1,0 +1,2 @@
+ID,min_year,max_year
+296,1970,1978

@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"TidalbarintheStraitofDover"	332	1999	5.2
+"TidalbarintheStraitofDover"	332	2000	2.5
+"TidalbarintheStraitofDover"	332	2001	3
+"TidalbarintheStraitofDover"	332	2002	5.75
+"TidalbarintheStraitofDover"	332	2003	0.8
+"TidalbarintheStraitofDover"	332	2004	0.5

@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Fernandina"	131	2014	1143
+"Fernandina"	131	2015	1008
+"Fernandina"	131	2016	1049
+"Fernandina"	131	2017	886
+"Fernandina"	131	2018	949

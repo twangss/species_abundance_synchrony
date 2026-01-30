@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"SantaCruz"	139	2014	2825
+"SantaCruz"	139	2015	1908
+"SantaCruz"	139	2016	2788
+"SantaCruz"	139	2017	2665
+"SantaCruz"	139	2018	2561

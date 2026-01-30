@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"WardIsland"	60	2007	44
+"WardIsland"	60	2013	45
+"WardIsland"	60	2015	41
+"WardIsland"	60	2020	39

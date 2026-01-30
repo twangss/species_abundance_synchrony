@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Isabela"	132	2014	1001
+"Isabela"	132	2015	749
+"Isabela"	132	2016	680
+"Isabela"	132	2017	545
+"Isabela"	132	2018	777

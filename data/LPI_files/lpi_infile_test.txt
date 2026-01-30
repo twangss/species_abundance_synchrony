@@ -1,0 +1,4 @@
+"FileName"	"Group"	"Weighting"
+"data/LPI_files/lpi_test_353.txt"	1	1
+"data/LPI_files/lpi_test_354.txt"	1	1
+"data/LPI_files/lpi_test_355.txt"	1	1

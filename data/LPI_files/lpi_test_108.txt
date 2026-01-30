@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PelicanPoint"	108	1991	481
+"PelicanPoint"	108	1994	1196
+"PelicanPoint"	108	1996	943
+"PelicanPoint"	108	2005	2727
+"PelicanPoint"	108	2006	2618

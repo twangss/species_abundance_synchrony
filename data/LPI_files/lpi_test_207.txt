@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Wales"	207	1977	645
+"Wales"	207	1992	1308
+"Wales"	207	1993	1372
+"Wales"	207	1994	1350

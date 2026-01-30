@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"RagIsland"	24	1992	0
+"RagIsland"	24	2002	30
+"RagIsland"	24	2007	277
+"RagIsland"	24	2013	295

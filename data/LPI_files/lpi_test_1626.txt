@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Finmark"	1626	1990	39
+"Finmark"	1626	1998	119
+"Finmark"	1626	2001	142
+"Finmark"	1626	2003	143
+"Finmark"	1626	2006	232

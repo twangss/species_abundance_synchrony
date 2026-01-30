@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Northernsum"	127	2014	30
+"Northernsum"	127	2015	20
+"Northernsum"	127	2016	61
+"Northernsum"	127	2017	29
+"Northernsum"	127	2018	36

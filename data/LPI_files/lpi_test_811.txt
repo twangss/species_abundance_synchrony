@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PiedraColoradaIslaCedros"	811	1992	74
+"PiedraColoradaIslaCedros"	811	1993	69
+"PiedraColoradaIslaCedros"	811	1997	117
+"PiedraColoradaIslaCedros"	811	1999	137
+"PiedraColoradaIslaCedros"	811	2000	309

@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"GulfofStLawrence"	354	1990	1600
+"GulfofStLawrence"	354	1991	1700
+"GulfofStLawrence"	354	1994	8700
+"GulfofStLawrence"	354	1996	4678
+"GulfofStLawrence"	354	2004	1400
+"GulfofStLawrence"	354	2005	6600

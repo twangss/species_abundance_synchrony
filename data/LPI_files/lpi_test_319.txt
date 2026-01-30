@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"KenmareRiverCountyDerry"	319	1990	49
+"KenmareRiverCountyDerry"	319	1991	63
+"KenmareRiverCountyDerry"	319	2000	139
+"KenmareRiverCountyDerry"	319	2001	179
+"KenmareRiverCountyDerry"	319	2002	199
+"KenmareRiverCountyDerry"	319	2003	174

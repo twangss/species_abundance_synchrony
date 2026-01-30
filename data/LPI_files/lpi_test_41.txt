@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"HaulOffRock"	41	1990	29
+"HaulOffRock"	41	2013	22
+"HaulOffRock"	41	2014	22
+"HaulOffRock"	41	2017	24

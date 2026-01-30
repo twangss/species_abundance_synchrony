@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"SealRocks"	26	1991	2826
+"SealRocks"	26	1997	4794
+"SealRocks"	26	2002	4882
+"SealRocks"	26	2007	5660
+"SealRocks"	26	2012	3725
+"SealRocks"	26	2013	4092

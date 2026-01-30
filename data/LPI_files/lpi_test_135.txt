@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Genovesa"	135	2014	544
+"Genovesa"	135	2015	333
+"Genovesa"	135	2016	306
+"Genovesa"	135	2017	447
+"Genovesa"	135	2018	297

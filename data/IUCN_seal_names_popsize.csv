@@ -1,0 +1,35 @@
+CommonName,Cut_3GL,GL_days,RMU,CommonNamespp,IUCN.cat,species_n,plot_main,Units_clean,IUCN.pop,IUCN.pop.year,IUCN.units,
+Antarctic fur seal,1993,3341.575,Arctocephalus gazella,Antarctic fur seal,LC,7,1,All Individuals,1275000.00,2014,all individuals,multipleid iucn mat by 1.5
+Australian fur seal,1986,3587.7675,Arctocephalus pusillus doriferus ,Australian fur seal,LC,16,1,Pups,30000.00,2015,pups,"120 is total abundance, then divide by 4 to get pups. Total population abundance (adults, juveniles and pups) was then calculated by multiplying the total pup production estimate by between 3.5 and 4.5"
+Australian sea lion,1988,4599,Neophoca cinerea,Australian sea lion,EN,20,1,Pups,3250.00,2010,pups,"6500 mature times 2, divided by 4. Pup production to total population multipliers developed for the species range from 3.83 to 4.08 (Goldsworthy and Page 2007, Goldsworthy et al. 2010)"
+California sea lion,1971,5306.69155,Zalophus californianus,California sea lion,LC,43,1,All Individuals,387646.00,2010,,5.40 laake
+Cape fur seal,1980,3587.7675,Arctocephalus pusillus pusillus,Cape fur seal,LC,38,1,Pups,500000.00,2009,pups,roughly used 4 from pups to total population size  https://www.researchgate.net/profile/Peter-Shaughnessy/publication/262729002_Interactions_between_fisheries_and_Cape_fur_seals_in_southern_Africa/links/0f317538ac89d20b1d000000/Interactions-between-fisheries-and-Cape-fur-seals-in-southern-Africa.pdf
+Caspian seal,,5840,Pusa caspica,Caspian seal,EN,1,1,Adults,68000.00,2012,adults,
+Crabeater seal,,5475,Lobodon carcinophaga,Crabeater seal,LC,1,0,All Individuals,8000000.00,2014,all individuals,
+Galapagos fur seal,,3650,Arctocephalus galapagoensis,Galapagos fur seal,EN,3,1,Pups,400.00,2014,pups,"Used more updated estimates from Paez-Rosas et al 2021, who surveyed all breeding locations of species,  https://www.nature.com/articles/s41598-021-88350-0 from the nature paper"
+Galapagos sea lion,2005,3650,Zalophus wollebaeki,Galapagos sea lion,EN,18,1,All Individuals,20500.00,2014,all individuals,
+Grey seal,1978,5110,H. g. atlantica,Atlantic grey seal,LC,75,1,All Individuals,585000.00,2015,all individuals,632000 global pop size minus 47000 from IUCN https://www.iucnredlist.org/species/9660/45226042#population
+Grey seal,1978,5110,H. g. grypus ,Baltic grey seal,LC,1,1,All Individuals,47000.00,2014,all individuals,
+Guadalupe fur seal,1984,3650,Arctocephalus townsendi,Guadalupe fur seal,LC,1,1,Pups,5000.00,2013,pups,"Used more updated estimates from NOAA 2021, who did a species-wide census, https://media.fisheries.noaa.gov/2021-07/guadalupe-fur-seal-status-review-2021.pdf?VersionId=null"
+Harbor seal,1975,5413.68,P. v. vitulina,Atlantic harbor seal,LC,43,1,All Individuals,130000.00,2016,all individuals,"Mature individuals multiplied by 2 according to IUCN and Bjorge et al. (2010), https://www.iucnredlist.org/species/17013/45229114#population"
+Harbor seal,1975,5413.68,P. v. richardii ,Pacific harbor seal,LC,15,1,All Individuals,380000.00,2016,all individuals,"Mature individuals multiplied by 2 according to IUCN and Bjorge et al. (2010), https://www.iucnredlist.org/species/17013/45229114#population"
+Harp seal,1965,6570,Pagophilus groenlandicus,Harp seal,NT,4,1,Pups,966000.00,2014,pups,"Added numbers of pups from most recent surveys of all 3 populations, https://www.iucnredlist.org/species/41671/280391816#population"
+Hawaiian monk seal,1997,5475,Monachus schauinslandi,Hawaiian monk seal,VU,2,1,All Individuals,1607.00,2021,all individuals,"IUCN, https://www.iucnredlist.org/species/13654/272355581#population"
+Hooded seal,1989,3650,Cystophora cristata,Hooded seal,EN,3,1,Pups,NA,,,
+Juan Fernandez fur seal,1976,3650,Arctocephalus philippii,Juan Fernandez fur seal,LC,3,1,All Individuals,32278.00,2005,all individuals,https://www.iucnredlist.org/species/2059/61953525#population
+Leopard seal,,5110,Hydrurga leptonyx,Leopard seal,LC,1,0,All Individuals,18000.00,2015,all individuals,
+Mediterranean monk seal,1993,4015,Monachus monachus,Mediterranean monk seal,VU,4,1,All Individuals,600.00,2017,all individuals,
+New Zealand fur seal,1988,3285,Arctocephalus forsteri,New Zealand fur seal,LC,6,1,Pups,42016.00,2013,pups,Based on a pup to total population multiplier of 4.76 (Goldsworthy and Page 2007)
+New Zealand sea lion,1995,3650,Phocarctos hookeri,New Zealand sea lion,EN,6,1,Pups,3031.00,2014,pups,"multiply pups to mature individuals by 1.3846, you should have all of them"
+Northern elephant seal,1994,3184.472917,Mirounga angustirostris,Northern elephant seal,LC,18,1,Pups,55813.00,2014,pups,"4.3 from pups to total population, changed iucn to total population"
+Northern fur seal,1981,4745,Callorhinus ursinus,Northern fur seal,VU,7,1,Pups,288287.00,2014,pups," 1.29 million/4.4747  from global abundance to pups ,https://www.iucnredlist.org/species/3590/45224953#population"
+Ringed seal,1975,6803.8094,P. h. botnica,Baltic ringed seal,LC,4,1,All Individuals,23000.00,2015,all individuals,https://www.iucnredlist.org/species/41673/66991604#population
+South America fur seal,1977,4269.8894,Arctocephalus australis,South America fur seal,LC,8,1,All Individuals,219000.00,2005,all individuals,changed iucn mature to total individuals from IUCN website https://www.iucnredlist.org/species/2055/45223529#population
+South American sea lion,2000,2555,Otaria flavescens,South American sea lion,LC,7,1,All Individuals,445000.00,2015,all individuals,"directly from IUCN website, https://www.iucnredlist.org/species/41665/61948292#population"
+Southern elephant seal,1995,3467.5,Mirounga leonina,Southern elephant seal,LC,6,1,All Individuals,650000.00,2014,all individuals,"multiplied mature individuals by 2 to get all indivudals in IUCN, 2 is a common conversion factor"
+Steller sea lion,1990,3650,Eumetopias jubatus monteriensis,Loughlins Steller sea lion,LC,17,1,Non-pups,40919.00,2015,Non-pups,
+Steller sea lion,1990,3650,Eumetopias jubatus jubatus,Western Steller sea lion,EN,17,1,Non-pups,40409.00,2015,Non-pups,
+Sub-antarctic fur seal,1983,3913.16785,Arctocephalus tropicalis,Subantarctic fur seal,LC,2,0,Pups,50000.00,2005,pups,divided by 4 to get to pups units
+Walrus,1973,5529.75,O. r. rosmarus,Atlantic walrus,NT,7,1,All Individuals,25000.00,2015,all individuals,https://www.iucnredlist.org/species/15108/66992323#population
+Walrus,1973,5529.75,O. r. divergens,Pacific walrus,DD,1,1,All Individuals,257193.00,2006,all individuals,USGS source https://www.usgs.gov/publications/estimating-pacific-walrus-abundance-and-survival-multievent-mark-recapture-models
+Weddel seal,1991,4015,Leptonychotes weddellii,Weddell seal,LC,3,0,Non-pups,450000.00,2014,nonpups,

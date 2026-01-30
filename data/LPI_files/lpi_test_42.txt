@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"JonesIsland"	42	2005	15
+"JonesIsland"	42	2008	15
+"JonesIsland"	42	2009	11
+"JonesIsland"	42	2012	12
+"JonesIsland"	42	2013	16
+"JonesIsland"	42	2015	19

@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Westernsum"	128	2014	9
+"Westernsum"	128	2015	6
+"Westernsum"	128	2016	11
+"Westernsum"	128	2017	9
+"Westernsum"	128	2018	19

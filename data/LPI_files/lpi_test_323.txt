@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"ArisaigandLochNevisWestScotland"	323	1988	486
+"ArisaigandLochNevisWestScotland"	323	1989	567
+"ArisaigandLochNevisWestScotland"	323	1996	288
+"ArisaigandLochNevisWestScotland"	323	2000	623
+"ArisaigandLochNevisWestScotland"	323	2005	729

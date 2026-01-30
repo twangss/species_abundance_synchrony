@@ -1,0 +1,2 @@
+ID,min_year,max_year
+1006,1986,2014

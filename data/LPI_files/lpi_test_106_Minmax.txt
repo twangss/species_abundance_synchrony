@@ -1,0 +1,2 @@
+ID,min_year,max_year
+106,1982,1992

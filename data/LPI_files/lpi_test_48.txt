@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"NicolasBaudinIsland"	48	2007	98
+"NicolasBaudinIsland"	48	2009	89
+"NicolasBaudinIsland"	48	2015	61
+"NicolasBaudinIsland"	48	2019	69

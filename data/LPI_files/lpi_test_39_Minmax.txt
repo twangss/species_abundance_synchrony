@@ -1,0 +1,2 @@
+ID,min_year,max_year
+39,1989,2020

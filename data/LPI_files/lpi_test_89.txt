@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"CapeColumbine"	89	1991	152
+"CapeColumbine"	89	1994	138
+"CapeColumbine"	89	1995	130
+"CapeColumbine"	89	1996	76
+"CapeColumbine"	89	2007	259

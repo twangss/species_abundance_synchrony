@@ -1,0 +1,2 @@
+ID,min_year,max_year
+283,1992,1999

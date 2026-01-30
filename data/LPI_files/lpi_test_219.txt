@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Helmsdale"	219	1984	94
+"Helmsdale"	219	1989	280
+"Helmsdale"	219	1991	321
+"Helmsdale"	219	1992	225
+"Helmsdale"	219	1995	300
+"Helmsdale"	219	1996	300

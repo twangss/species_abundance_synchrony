@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Front"	353	1984	62400
+"Front"	353	1985	61400
+"Front"	353	1990	83100
+"Front"	353	2004	124000
+"Front"	353	2005	107000

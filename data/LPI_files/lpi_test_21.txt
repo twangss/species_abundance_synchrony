@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"MontagueIsland"	21	1993	1
+"MontagueIsland"	21	2002	1
+"MontagueIsland"	21	2006	2
+"MontagueIsland"	21	2007	2
+"MontagueIsland"	21	2013	19

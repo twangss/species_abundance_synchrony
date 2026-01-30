@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"CerroBrujo"	142	2011	64
+"CerroBrujo"	142	2012	312
+"CerroBrujo"	142	2013	119
+"CerroBrujo"	142	2014	201
+"CerroBrujo"	142	2015	38

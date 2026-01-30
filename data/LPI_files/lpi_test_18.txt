@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"KanownaIsland"	18	2000	1724
+"KanownaIsland"	18	2002	2301
+"KanownaIsland"	18	2003	2936
+"KanownaIsland"	18	2004	3206
+"KanownaIsland"	18	2007	2913
+"KanownaIsland"	18	2013	2429

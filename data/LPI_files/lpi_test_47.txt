@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"LoundsIsland"	47	2009	34
+"LoundsIsland"	47	2016	20
+"LoundsIsland"	47	2018	27
+"LoundsIsland"	47	2020	29

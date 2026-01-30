@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"LadyJuliaPercyIsland"	19	1999	4867
+"LadyJuliaPercyIsland"	19	2002	5899
+"LadyJuliaPercyIsland"	19	2007	5574
+"LadyJuliaPercyIsland"	19	2013	2659

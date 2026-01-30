@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Pinta"	133	2014	483
+"Pinta"	133	2015	276
+"Pinta"	133	2016	428
+"Pinta"	133	2017	289
+"Pinta"	133	2018	1398

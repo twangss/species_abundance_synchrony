@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"NordTrondelag"	1623	1979	47
+"NordTrondelag"	1623	1998	67
+"NordTrondelag"	1623	2001	84
+"NordTrondelag"	1623	2007	135

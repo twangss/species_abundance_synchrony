@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PuntaPitt"	151	2010	625
+"PuntaPitt"	151	2011	736
+"PuntaPitt"	151	2012	691
+"PuntaPitt"	151	2013	609
+"PuntaPitt"	151	2014	908
+"PuntaPitt"	151	2015	937

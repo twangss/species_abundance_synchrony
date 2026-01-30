@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"CapeBridgewater"	14	1995	1
+"CapeBridgewater"	14	2002	7
+"CapeBridgewater"	14	2007	7
+"CapeBridgewater"	14	2013	120
+"CapeBridgewater"	14	2014	95
+"CapeBridgewater"	14	2015	146

@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"IslaBenitodelOeste"	814	1979	283
+"IslaBenitodelOeste"	814	1989	111
+"IslaBenitodelOeste"	814	1990	274
+"IslaBenitodelOeste"	814	1993	83
+"IslaBenitodelOeste"	814	1999	205
+"IslaBenitodelOeste"	814	2000	320

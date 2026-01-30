@@ -394,7 +394,7 @@ best_pass2_model_fits_error_fix_scale_sd = best_pass2_model_fits_error_fix_scale
 #=== plot the Stan fits for individual population trends
 best_pass2_model_fits_error_fix_scale$label <- paste(best_pass2_model_fits_error_fix_scale$ts,"\n","units = ", best_pass2_model_fits_error_fix_scale$Units,sep="")
 best_pass2_species = unique(best_pass2_model_fits_error_fix_scale$species)
-# pdf("model/plots/turtles_best_species_marss_stan_ts_fits_20250926.pdf", width = 11, height = 8.5)
+pdf("plots/turtles_best_species_marss_stan_ts_fits_20250926.pdf", width = 11, height = 8.5)
 ncol = 5
 nrow=4
 for (species_i in best_pass2_species){
@@ -413,6 +413,7 @@ for (species_i in best_pass2_species){
       facet_wrap_paginate(~label,scales="free", ncol = ncol, nrow = nrow, page = page_i) +
       # facet_wrap(~ts,scales="free") + 
       theme_bw() +
+      labs(x="Year",y="Log nest abundance")+ 
       ggtitle(paste(species_i,RMU_i,
                     sep=" - "))
     print(p)
@@ -458,7 +459,7 @@ species_trend_plot <- pre_species_plot %>%
   # Use the clipped smooth
   geom_line(data = smooth_df,
             aes(y = smooth_clipped, group = ts),
-            color = alpha("steelblue", 0.2), size = 0.5) +
+            color = alpha("black", 0.2), size = 0.5) +
   
   geom_ribbon(alpha = 0.5, fill = "black") +
   geom_line(size = 1.1, color = "black") +
@@ -467,6 +468,6 @@ species_trend_plot <- pre_species_plot %>%
   scale_y_continuous(labels = function(x) x / 1000,limits = c(0, NA)) +
   # scale_y_continuous()
   theme_classic() +
-  labs(y = "Monitored Adult Female Abundance (1000s)", x = "Year")
+  labs(y = "Monitored Nest Abundance (1000s)", x = "Year")
 
-# ggsave("plots/turtle_species_trends.pdf", species_trend_plot, width=8, height=10)
+ggsave("plots/turtle_species_trends.pdf", species_trend_plot, width=8, height=10)

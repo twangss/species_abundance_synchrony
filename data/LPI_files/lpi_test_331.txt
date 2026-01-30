@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"SkyeWestScotland"	331	1988	1233
+"SkyeWestScotland"	331	1989	1269
+"SkyeWestScotland"	331	1992	1296
+"SkyeWestScotland"	331	1996	1728
+"SkyeWestScotland"	331	2000	2220
+"SkyeWestScotland"	331	2005	1899

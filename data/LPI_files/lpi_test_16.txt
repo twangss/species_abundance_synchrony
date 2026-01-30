@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"IlesdesPhoques"	16	1992	0
+"IlesdesPhoques"	16	2001	1
+"IlesdesPhoques"	16	2002	1
+"IlesdesPhoques"	16	2007	0
+"IlesdesPhoques"	16	2013	10

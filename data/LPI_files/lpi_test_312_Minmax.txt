@@ -1,0 +1,2 @@
+ID,min_year,max_year
+312,1988,2005

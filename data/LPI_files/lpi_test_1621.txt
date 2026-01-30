@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Rogaland"	1621	2000	30
+"Rogaland"	1621	2001	30
+"Rogaland"	1621	2002	28
+"Rogaland"	1621	2003	35
+"Rogaland"	1621	2005	31
+"Rogaland"	1621	2008	43

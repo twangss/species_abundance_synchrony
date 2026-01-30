@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Greenlandsea"	355	1997	23762
+"Greenlandsea"	355	2005	15250
+"Greenlandsea"	355	2007	16140
+"Greenlandsea"	355	2012	13655
+"Greenlandsea"	355	2018	12977

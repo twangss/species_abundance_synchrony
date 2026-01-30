@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"NewfoundlandandDavisstrait"	3432	1978	497000
+"NewfoundlandandDavisstrait"	3432	1979	478000
+"NewfoundlandandDavisstrait"	3432	1980	475000
+"NewfoundlandandDavisstrait"	3432	1983	534000

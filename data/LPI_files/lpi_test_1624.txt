@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Nordland"	1624	1979	140
+"Nordland"	1624	1991	171
+"Nordland"	1624	1998	399
+"Nordland"	1624	2002	573
+"Nordland"	1624	2007	619

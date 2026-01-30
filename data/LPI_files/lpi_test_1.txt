@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"BirdIslandSouthGeorgia"	1	1972	24777
+"BirdIslandSouthGeorgia"	1	1973	30780
+"BirdIslandSouthGeorgia"	1	1974	35970
+"BirdIslandSouthGeorgia"	1	1976	37813
+"BirdIslandSouthGeorgia"	1	1977	35868

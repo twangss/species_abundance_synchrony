@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"IslaCedros"	810	1990	2016
+"IslaCedros"	810	1992	741
+"IslaCedros"	810	1993	1276
+"IslaCedros"	810	1995	1835
+"IslaCedros"	810	1997	1456
+"IslaCedros"	810	2000	2963

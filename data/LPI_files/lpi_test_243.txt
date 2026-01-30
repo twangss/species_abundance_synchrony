@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"GreatBlasketIslands"	243	1979	37.64
+"GreatBlasketIslands"	243	1983	328.62
+"GreatBlasketIslands"	243	1984	288.02
+"GreatBlasketIslands"	243	1988	302.51
+"GreatBlasketIslands"	243	1989	313.76
+"GreatBlasketIslands"	243	1995	621.12

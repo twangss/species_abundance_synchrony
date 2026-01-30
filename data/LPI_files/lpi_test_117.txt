@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"TorraBay"	117	1993	1585
+"TorraBay"	117	2005	3147
+"TorraBay"	117	2006	3054
+"TorraBay"	117	2008	3581

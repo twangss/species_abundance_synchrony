@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"BreakwaterGliddon"	35	2006	22
+"BreakwaterGliddon"	35	2009	24
+"BreakwaterGliddon"	35	2016	34
+"BreakwaterGliddon"	35	2019	34

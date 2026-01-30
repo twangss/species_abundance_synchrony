@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Pabbay"	198	2005	100
+"Pabbay"	198	2006	106
+"Pabbay"	198	2007	152
+"Pabbay"	198	2008	222
+"Pabbay"	198	2010	273

@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Vitten"	267	2000	30.97
+"Vitten"	267	2002	4.02
+"Vitten"	267	2003	27.66
+"Vitten"	267	2004	24.67
+"Vitten"	267	2005	37.02

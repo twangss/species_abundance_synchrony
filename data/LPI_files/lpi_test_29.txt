@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"TheSkerries"	29	1999	1867
+"TheSkerries"	29	2000	2237
+"TheSkerries"	29	2002	2486
+"TheSkerries"	29	2007	2705
+"TheSkerries"	29	2014	2254

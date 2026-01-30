@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PurdieIsland"	51	2005	133
+"PurdieIsland"	51	2007	95
+"PurdieIsland"	51	2016	65
+"PurdieIsland"	51	2020	73

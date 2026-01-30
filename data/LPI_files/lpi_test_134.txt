@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Marchena"	134	2014	104
+"Marchena"	134	2015	1220
+"Marchena"	134	2016	30
+"Marchena"	134	2017	54
+"Marchena"	134	2018	264

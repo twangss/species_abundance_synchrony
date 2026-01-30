@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Puerto"	149	2012	61
+"Puerto"	149	2013	43
+"Puerto"	149	2014	67
+"Puerto"	149	2015	107

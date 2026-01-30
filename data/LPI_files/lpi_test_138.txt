@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Seymur"	138	2014	988
+"Seymur"	138	2015	650
+"Seymur"	138	2016	853
+"Seymur"	138	2017	1027
+"Seymur"	138	2018	883

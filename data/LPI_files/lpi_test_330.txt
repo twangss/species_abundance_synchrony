@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"ShetlandIslandsNorthScotland"	330	1991	4797
+"ShetlandIslandsNorthScotland"	330	1993	6224
+"ShetlandIslandsNorthScotland"	330	1997	5991
+"ShetlandIslandsNorthScotland"	330	2001	4883
+"ShetlandIslandsNorthScotland"	330	2006	3021
+"ShetlandIslandsNorthScotland"	330	2009	2976

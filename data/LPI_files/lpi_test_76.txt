@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"RConsag"	76	1979	327
+"RConsag"	76	1981	420
+"RConsag"	76	1986	508
+"RConsag"	76	1988	388
+"RConsag"	76	1997	552
+"RConsag"	76	2002	597

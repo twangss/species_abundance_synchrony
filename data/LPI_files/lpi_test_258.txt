@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"StLawrenceEstuaryandSaguenayRiverQuebec"	258	1994	389
+"StLawrenceEstuaryandSaguenayRiverQuebec"	258	1995	578
+"StLawrenceEstuaryandSaguenayRiverQuebec"	258	1996	627
+"StLawrenceEstuaryandSaguenayRiverQuebec"	258	1997	659

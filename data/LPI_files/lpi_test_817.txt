@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"IslaSantaMargarita"	817	1979	1202
+"IslaSantaMargarita"	817	1990	1638
+"IslaSantaMargarita"	817	1993	1341
+"IslaSantaMargarita"	817	1999	1181
+"IslaSantaMargarita"	817	2000	1673

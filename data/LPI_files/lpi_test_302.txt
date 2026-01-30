@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"SchleswigHolsteincoastGermany"	302	1989	1427
+"SchleswigHolsteincoastGermany"	302	1990	1788
+"SchleswigHolsteincoastGermany"	302	1991	2148
+"SchleswigHolsteincoastGermany"	302	1992	2622
+"SchleswigHolsteincoastGermany"	302	1993	3151
+"SchleswigHolsteincoastGermany"	302	1994	3099

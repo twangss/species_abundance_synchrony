@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PearsonIsland"	50	2004	29
+"PearsonIsland"	50	2006	35
+"PearsonIsland"	50	2014	29
+"PearsonIsland"	50	2016	30
+"PearsonIsland"	50	2020	31

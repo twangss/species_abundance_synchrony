@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"CliffPoint"	92	2004	13167
+"CliffPoint"	92	2005	7431
+"CliffPoint"	92	2007	8643
+"CliffPoint"	92	2008	11423

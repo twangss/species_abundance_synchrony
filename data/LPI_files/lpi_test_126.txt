@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Centralsum"	126	2014	369
+"Centralsum"	126	2015	232
+"Centralsum"	126	2016	410
+"Centralsum"	126	2017	358
+"Centralsum"	126	2018	392

@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"OuterHebridesWestScotland"	329	1992	2329
+"OuterHebridesWestScotland"	329	1996	2820
+"OuterHebridesWestScotland"	329	2000	2413
+"OuterHebridesWestScotland"	329	2003	2098
+"OuterHebridesWestScotland"	329	2008	1726

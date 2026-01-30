@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"VondelingIsland"	119	2003	835
+"VondelingIsland"	119	2006	2323
+"VondelingIsland"	119	2008	3689
+"VondelingIsland"	119	2009	3877

@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"SheepSkerryEynhallowOrkney"	292	1984	180
+"SheepSkerryEynhallowOrkney"	292	1985	170
+"SheepSkerryEynhallowOrkney"	292	1986	205
+"SheepSkerryEynhallowOrkney"	292	1987	195
+"SheepSkerryEynhallowOrkney"	292	1998	50

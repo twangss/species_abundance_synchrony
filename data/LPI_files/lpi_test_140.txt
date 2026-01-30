@@ -1,0 +1,6 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"BahiaGardner"	140	2011	443
+"BahiaGardner"	140	2012	418
+"BahiaGardner"	140	2013	401
+"BahiaGardner"	140	2014	208
+"BahiaGardner"	140	2015	75

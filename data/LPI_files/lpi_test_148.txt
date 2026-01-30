@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PostOffice"	148	2012	446
+"PostOffice"	148	2013	463
+"PostOffice"	148	2014	384
+"PostOffice"	148	2015	524

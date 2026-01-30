@@ -1,0 +1,7 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"Netherlandscoast"	304	1989	530
+"Netherlandscoast"	304	1990	598
+"Netherlandscoast"	304	1991	567
+"Netherlandscoast"	304	1992	885
+"Netherlandscoast"	304	1993	952
+"Netherlandscoast"	304	1994	1187

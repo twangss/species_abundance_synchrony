@@ -1,0 +1,5 @@
+"Bionomial"	"ID"	"year"	"popvalue"
+"PuntaSuarez"	152	2012	284
+"PuntaSuarez"	152	2013	279
+"PuntaSuarez"	152	2014	383
+"PuntaSuarez"	152	2015	331

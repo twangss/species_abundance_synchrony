@@ -27,9 +27,6 @@ Global database of marine vertebrate time series for pinnipeds  ('data/Pinniped 
 - Sampling.method: Sampling method categories for estimation of observation error parameters
 - yXXXX: Year XXXX, Years of abundance counts 
 
-### Distance Data for Spatial Synchrony
-Distances among locations are found at 'data/site_distance/turtle_distance_matrix_2025_0925.RDS'. Distances are calculated as lengths of minimum contiguous ocean paths using CODE LINK prior to model fitting. 
-
 ### R files
 - pinniped_model_fitting_and_selection: fit models of pinniped abundance trends
 - main_plots: process model output files from fitting script for figure generation

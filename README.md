@@ -34,6 +34,7 @@ Distances among locations are found at 'data/site_distance/turtle_distance_matri
 - pinniped_model_fitting_and_selection: fit models of pinniped abundance trends
 - main_plots: process model output files from fitting script for figure generation
 - simulation_setup_and_distance_covariance: set up simulation experiment by producing simulated random walks and also set up distance calculations for spatial synchrony
+- simulation_experiment_model_fitting: run simulation experiment
 - simulation_experiment_outputs_processing: process simulation experiment output files
 - LPI_realdatatrends: compare abundance trends among LPI, independent process, and spatial synchrony models
 

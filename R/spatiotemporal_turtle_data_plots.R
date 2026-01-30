@@ -3,7 +3,7 @@ library(ggplot2)
 library(sf)
 
 # Spatiotemporal representation plots
-LPD2022_public_long_turtle = read.csv("/Users/twangs/Documents/Github/LPI/LPD2022_public/LPD2022_public.csv") %>% 
+LPD2022_public_long_turtle = read.csv("~/Documents/Github/LPI/LPD2022_public/LPD2022_public.csv") %>% 
   filter(Common_name == "Green turtle" | Common_name == "Hawksbill turtle" | Common_name == "Leatherback turtle" | Common_name == "Loggerhead turtle" | Common_name == "Olive ridley turtle") %>%
   pivot_longer(
     cols = starts_with("X"),

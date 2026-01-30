@@ -1,8 +1,4 @@
-# # set up state hypotheses
-# stock_vec <- species_i_pre_df %>% subset(Common.Name == species_i) %>% distinct(ID,Stock)%>% pull(Stock) 
-# custom_vec <- species_i_pre_df %>% subset(Common.Name == species_i) %>% distinct(ID,Custom) %>% pull(Custom) 
-# id_vec <- species_i_pre_df %>% subset(Common.Name == species_i) %>% distinct(ID)%>% pull(ID) 
-# onestate_vec <- rep("one",times=length(id_vec))
+
 library(tidyverse)
 library(atsar)
 

@@ -34,6 +34,7 @@ Global database of marine vertebrate time series for pinnipeds  ('data/Pinniped 
 - simulation_experiment_model_fitting: run simulation experiment
 - simulation_experiment_outputs_processing: process simulation experiment output files
 - LPI_realdatatrends: compare abundance trends among LPI, independent process, and spatial synchrony models
+- marss_stan_functions: sourced functions that assist in data processing
 
 ### Model Files
 Models are coded in Stan and found in the model folder. See Model description section below to get started. 
